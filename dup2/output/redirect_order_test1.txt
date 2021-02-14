@@ -1,0 +1,2 @@
+this cmd is dummy
+an error has occurred.
